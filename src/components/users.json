@@ -1,0 +1,17 @@
+[
+    {
+        "firstname":"ali",
+        "familyname":"razavi",
+        "idnumber":"1234567890"
+    },
+    {
+        "firstname":"reza",
+        "familyname":"rahmani",
+        "idnumber":"0123456789"
+    },
+    {
+        "firstname":"sara",
+        "familyname":"ahmadi",
+        "idnumber":"2546897031"
+    }
+]
